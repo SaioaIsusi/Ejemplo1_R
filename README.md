@@ -22,10 +22,12 @@ Y si queremos poner link tendréis que poner [Nombre que aparecerá](http:leonar
 si quiero crear una lista puedo usar_
 - esto
 - ooooo
+
 o:
-*esto
-*ooo
-*
+
+* esto
+* ooo
+  
 O:
 + el plus
 si quiero que sea una lista ordenada:
@@ -37,3 +39,15 @@ esto lo desarrollaré en un nota al pie [^1]
 [^1]: que desarrollare aquí
 
 tambien hay emojis, :+1: o :shipit: por ejemplo
+
+>[!NOTE]
+>información util que quiero puntualizar.
+
+>[!TIP]
+>Consejos sobre como interpretar mejor lo que sea mejor
+
+>[!WARNING]
+>Para que urko no se enfade
+
+>[!CAUTION]
+>No se que ha puesto
